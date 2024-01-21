@@ -6,15 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="389167ca-32cb-4e6c-b4b7-80658fd1f6c8" name="Changes" comment="lets go">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/_dialogs/push-notification-interest/push-notification-interest.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/_dialogs/push-notification-interest/push-notification-interest.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frag.jetzt" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/_dialogs/push-notification-interest/push-notification-interest.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/_dialogs/push-notification-interest/push-notification-interest.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/_dialogs/push-notification-interest/push-notification-interest.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/_dialogs/push-notification-interest/push-notification-interest.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/_dialogs/push-notification-interest/push-notification-interest.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/_dialogs/push-notification-interest/push-notification-interest.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/room-list/room-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/app/components/shared/room-list/room-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/creator/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/creator/en.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/creator/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/creator/fr.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/home/de.json" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/home/de.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/home/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/home/en.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/home/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/frag.jetzt/src/assets/i18n/home/fr.json" afterDir="false" />
@@ -88,7 +81,8 @@
       <workItem from="1705683056191" duration="1224000" />
       <workItem from="1705764004612" duration="8905000" />
       <workItem from="1705774299714" duration="10411000" />
-      <workItem from="1705787000414" duration="5402000" />
+      <workItem from="1705787000414" duration="5819000" />
+      <workItem from="1705828074417" duration="3037000" />
     </task>
     <task id="LOCAL-00001" summary="Jetzt aber">
       <option name="closed" value="true" />
@@ -98,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705771012298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lets go">
+      <option name="closed" value="true" />
+      <created>1705792723458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705792723458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
